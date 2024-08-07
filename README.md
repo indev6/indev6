@@ -10,9 +10,9 @@
 
 ### 📌 Projetos em Destaque
 
-[![VerificadorIdade](https://github-readme-stats.vercel.app/api/pin/?username=indev6&repo=Projects)](https://github.com/indev6/Projects)
+[![VerificadorIdade](https://github-readme-stats.vercel.app/api/pin/?username=indev6&repo=Projects&theme=dracula)](https://github.com/indev6/Projects)
 
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indev6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indev6&layout=compact&theme=dracula)
