@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, eu sou o Igor Neves (indev6)
 
-<!--
-**indev6/indev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 **Atuação Profissional**
+- MBA Planejamento Financeiro e Mercado de Capitais
+- Bacharelado em Administração
 
-Here are some ideas to get you started:
+### 📊 Estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![indev6's GitHub stats](https://github-readme-stats.vercel.app/api?username=indev6&show_icons=true&theme=dracula)
+
+### 📌 Projetos em Destaque
+
+[![VerificadorIdade](https://github-readme-stats.vercel.app/api/pin/?username=indev6&repo=Projects)](https://github.com/indev6/Projects)
+
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indev6&layout=compact)
